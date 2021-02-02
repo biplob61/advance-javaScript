@@ -1,4 +1,4 @@
-//const name = "";
+const name = "";
 if (name.length) {
     console.log("conditon is true");//string a kisu thaklei true dhore newa hy 
 }
