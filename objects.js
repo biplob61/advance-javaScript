@@ -1,5 +1,6 @@
 const student= [
     { name: "biplob", id: 21},
+    { name: "bip", id: 22},
      { name: "moni", id: 18}
  ]
  const names = student.map(s => s.name);
